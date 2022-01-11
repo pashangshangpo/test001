@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 简介
 
 [![npm版本](https://img.shields.io/npm/v/fe-peak.svg)](https://www.npmjs.com/package/fe-peak)
@@ -92,3 +93,6 @@ fe-peak
 ```
 fetch(`${window.Peak.proxyUrl}http://www.taobao.com`)
 ```
+=======
+# test001
+>>>>>>> main
